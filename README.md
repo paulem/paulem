@@ -9,9 +9,9 @@ In my spare time, I'm developing and maintaining a number of projects, including
 I'm currently learning `GitHub Actions`.  
 <br/>
 <br/>
-[![Pavel's Twitter](https://img.shields.io/badge/twitter-%40upavel-%2308A0E9)](https://twitter.com/upavel)
-[![Pavel's Facebook](https://img.shields.io/badge/facebook-pavel.um-%231094F4)](https://www.facebook.com/pavel.um)
-[![Pavel's Instagram](https://img.shields.io/badge/instagram-paulem-%23DD2A7B)](https://www.instagram.com/paulem)
+[![Pavel's Twitter](https://img.shields.io/badge/twitter-%40upavel-%2308A0E9?logo=twitter)](https://twitter.com/upavel)
+[![Pavel's Facebook](https://img.shields.io/badge/facebook-pavel.um-%231094F4?logo=facebook)](https://www.facebook.com/pavel.um)
+[![Pavel's Instagram](https://img.shields.io/badge/instagram-paulem-%23DD2A7B?logo=instagram)](https://www.instagram.com/paulem)
 
 <!--
 **paulem/paulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
