@@ -1,5 +1,5 @@
-### Hey there 👋
-I'm a software engineer & UI designer. I love making apps with a user-friendly and well-designed interface.
+### Hi there 👋
+My name is Pavel, I'm a Software Engineer with strong UI/UX background. I love making apps with a user-friendly and well-designed interface.
 I'm mostly experienced in `C#/.NET`, `WPF` and related technologies. I also enjoy developing cloud-native apps, bots, APIs and things like that.
 
 I currently work at ALTEX-SOFT as a Chief of Security Audit Software Development.
